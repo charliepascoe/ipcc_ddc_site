@@ -57,7 +57,7 @@ Task Group on Data Support for Climate Change Assessments (TG-DATA)
   </p>
   
   <h2> TGICA Members</h2>
- 
+  <!-- 
   <table align="center" style="width:90%;font-size:95%;">
   <tr>
   <td class="odd-table-column"> Co-Chairs </td>
@@ -100,7 +100,7 @@ Gian-Kasper Plattner (IPCC, WG I TSU)<br/>
  Karl Taylor (PCMDI)<br/> 
  Xianfu Lu (UNFCCC)</td></tr>
  </table>
- 
+ -->
   
   
 </div>  
