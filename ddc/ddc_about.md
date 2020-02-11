@@ -45,8 +45,51 @@ Task Group on Data Support for Climate Change Assessments (TG-DATA)
 <a href="http://ceda.ac.uk" target="new">Centre for Environmental Data Analysis - CEDA</a>)
   has replaced CRU as the United Kingdom partner.</p>
   
-  <h2> TGICA Mandate and DDC Governance</h2>
+<h2>TG-Data and DDC Governance</h2>  
   
+  <p>At its 47th Session on 13-16 March 2018, the IPCC adopted Decision IPCC-XLVII-9 whereupon TGICA was 
+  renamed as the Task Group on Data Support for Climate Change Assessments (TG-Data). 
+  TG-Data aims to provide guidance to the IPCC’s Data Distribution Centre (DDC) on curation, traceability, 
+  stability, availability and transparency of data and scenarios related to the reports of the IPCC. 
+  Together with the DDC, the Task Group facilitates the availability and consistent use of climate 
+  change-related data and scenarios in support of the implementation of the IPCC’s programme of work.
+  </p>
+
+<h2>TG-Data Members</h2> 
+  <table align="center" style="width:90%;font-size:95%;">
+  <tr>
+  <td class="odd-table-column"> Co-Chairs </td>
+  <td class="even-table-column">     Members </td>
+  <td class="odd-table-column"> Ex officio  </td>
+  </tr>
+ <tr>
+  <td class="odd-table-column" valign="top">
+ David Huard, Canada<br/>
+ Sebastian Vicuna, Chile<br/>
+  </td>
+ <td class="even-table-column"> 
+ Kornelis Blok, Netherlands<br/>
+ Steven Crimp, Australia<br/>
+ Sha Fu, China<br/>
+ Wawan Gunawan, Indonesia<br/>
+ José Manuel Gutiérrez, Spain<br/>
+ Michio Kawamiya, Japan<br/>
+ Nana Ama Browne Klutse, Ghana<br/>
+ Volker Krey, Germany<br/>
+ Silvina Solman, Argentina<br/>
+ Gerard van der Schrier, Netherlands<br/>
+ Michele Warburton-Toucher, South Africa<br/>
+ Rachel Warren, United Kingdom<br/>    
+ <td class="odd-table-column">
+ Martin Juckes (DDC, BADC)  <br/>
+ Martina Stockhause (DDC, DKRZ) <br/>
+ Robert Chen (DDC, CIESIN) <br/>
+ Anna Pirani (IPCC, WG1 TSU)<br/>
+ Elvira Poloczanska (IPCC, WG2 TSU)<br/>
+ </table>
+  
+  <!--
+  <h2> TGICA Mandate and DDC Governance</h2>
   <p>The conduct of TGICA is governed by its
   <a href="/docs/TGICA_Mandate_031207.htm">mandate</a>, which
   can be downloaded here as <a href="/docs/TGICA_Mandate_031207.pdf">an Adbobe pdf document</a>.
@@ -55,52 +98,8 @@ Task Group on Data Support for Climate Change Assessments (TG-DATA)
   <a href="/docs/TGICA_DDC_Governance_2012feb08.html">DDC Governance document</a>, which
   can be downloaded here as <a href="/docs/TGICA_DDC_Governance_2012feb08.pdf">an Adbobe pdf document</a>.
   </p>
-  
-  <h2> TGICA Members</h2>
-  <!-- 
-  <table align="center" style="width:90%;font-size:95%;">
-  <tr>
-  <td class="odd-table-column"> Co-Chairs </td>
-  <td class="even-table-column">     Members </td>
-  <td class="even-table-column">      </td>
-  <td class="odd-table-column"> Ex officio  </td>
-  </tr>
- <tr>
-  <td class="odd-table-column" valign="top">
- Timothy R. Carter, Finland<br/>
- Bruce Hewitson, South Africa<br/>
-  </td>
- <td class="even-table-column"> 
- Daniel Bouille, Argentina<br/>
- Stewart J. Cohen, Canada<br/>
- Suraje Dessai, UK<br/>
- Mariane Diop-Kane, Senegal<br/>
- Seita Emori, Japan<br/>
- Gregory E. Insarov, Russia<br/>
- Kejun Jiang, China<br/>
- Volker Krey, Austria<br/>
- </td>
- <td class="even-table-column"> 
- Won-Tae Kwon, South Korea<br/>
- Jason Lowe, UK<br/>
- Francisco Meza, Chile<br/>
- Andy Reisinger, New Zealand<br/>
- Fredrick Semazzi, USA<br/>
- Allison Thomson, USA<br/>
- Rachel Warren, UK (co-chair elect)<br/>
- Arthur Webb, Fiji<br/>
- Fernanda Zermoglio, Sweden</td>
- <td class="odd-table-column">
-  Martin Juckes (DDC, BADC)  <br/>
-  Martina Stockhause (DDC, DKRZ) <br/>
-  Robert Chen (DDC, CIESIN) <br/>
-Gian-Kasper Plattner (IPCC, WG I TSU)<br/>
- Michael Mastrandrea (IPCC, WG2 TSU)<br/>
- Jan Minx (IPCC, WG3 TSU)<br/>
- Karl Taylor (PCMDI)<br/> 
- Xianfu Lu (UNFCCC)</td></tr>
- </table>
- -->
+  -->
+ 
   
   
 </div>  
